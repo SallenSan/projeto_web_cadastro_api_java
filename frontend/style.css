@@ -9,8 +9,7 @@ h1 {
 }
 
 body {
-    background-image: linear-gradient(45deg, #0D4A3A, #2D5731, #526126);
-    background-image: url("https://img.olhardigital.com.br/wp-content/uploads/2023/09/2024-ford-f-150-3.jpg");
+    background-image: linear-gradient(to left, #2D3E40, #387373);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -21,9 +20,8 @@ body {
 
 .login{
     text-align: center;
+    font-style:italic;
 }
-
-
 
 
 
